@@ -4,11 +4,10 @@ body {
     padding: 0;
     background: #f9f9f9;
     color: #333;
-}
 header {
     background: url('header.jpg') center center / cover no-repeat;
     color: white;
-    padding: 4rem 2rem;
+    padding: 2rem 2rem 6rem 2rem;  /* top, right, bottom, left */
     text-align: center;
 }
 header h1 {
